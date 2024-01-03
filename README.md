@@ -1,5 +1,5 @@
 # be-hse-system
-This is the graduation defense project I completed in the 9th semester at university. Welcome to my project and the team. This is the back-end project.
+This is the graduation defense project I completed in the 9th semester at university. This is the back-end project. Welcome to my project and the team.
 
 ====================
 
